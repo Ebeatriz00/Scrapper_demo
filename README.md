@@ -10,7 +10,7 @@ Demostración de scrapper con Python + Playwright que busca productos en la web 
 - Busca un producto usando el buscador principal
 - Detecta si hay resultados o mensaje de "no encontrado"
 - Extrae el **enlace** del primer producto mostrado
-- Guarda los resultados en tres formatos:
+- Guarda los resultados en tres formatos o registrar en base de datos:
   - `resultados.csv`
   - `resultados.xlsx`
   - `resultados.json`
